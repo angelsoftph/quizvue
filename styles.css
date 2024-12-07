@@ -1,0 +1,85 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+#app {
+  background: #268caa;
+  border-radius: 20px;
+  color: #d9f2fd;
+  height: 810px;
+  width: 607px;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.passed {
+  background: #fff;
+  border-radius: 5px;
+  color: green;
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0 50px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+.failed {
+  background: #fff;
+  border-radius: 5px;
+  color: red;
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0 50px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+.card {
+  border-radius: 5px;
+  color: #268caa;
+  margin: 0 20px;
+}
+
+.card-title {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.card-text {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+input[type="text"] {
+  border: 3px solid #268caa;
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #268caa;
+  outline: none;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+.btn-primary {
+  background: #268caa;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px 15px;
+}
+
+.btn-primary:hover {
+  background: #3596b5;
+}
+
+.btn-primary:active {
+  background: #008bc8;
+}

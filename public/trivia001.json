@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "choices": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which continent can you find Israel?",
+    "choices": ["Africa", "Asia", "Europe", "South America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "How many minutes does sunlight travel to Earth?",
+    "choices": ["5", "10", "8", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "Who was the first Roman Emperor?",
+    "choices": ["Julius Caeser", "Augustus", "Constantine", "Peter the Great"],
+    "answer": "Augustus"
+  },
+  {
+    "question": "What ancient civilization built the city of Machu Picchu?",
+    "choices": ["Maya", "Babylonian", "Inca", "Sioux"],
+    "answer": "Inca"
+  },
+  {
+    "question": "What year did Christopher Columbus reach the Americas?",
+    "choices": ["1468", "1505", "1483", "1492"],
+    "answer": "1492"
+  },
+  {
+    "question": "Who wrote 'The Republic'?",
+    "choices": ["Plato", "William Shakespeare", "C.S. Lewis", "Aristotle"],
+    "answer": "Plato"
+  },
+  {
+    "question": "What ancient civilization was responsible for the creation of the Rosetta Stone?",
+    "choices": [
+      "Ancient Egyptians",
+      "Ancient Chinese",
+      "Ancient Romans",
+      "Ancient Babylonians"
+    ],
+    "answer": "Ancient Egyptians"
+  },
+  {
+    "question": "Who founded the Mongol Empire?",
+    "choices": ["Mongo Dibi", "Kublai Chan", "Genghis Khan", "Gautama Buddha"],
+    "answer": "Genghis Khan"
+  },
+  {
+    "question": "Who was the first emperor of Japan?",
+    "choices": [
+      "Emperor Hirohito",
+      "Emperor Jimmu",
+      "Emperor Inoue",
+      "Emperor Kobayashi"
+    ],
+    "answer": "Emperor Jimmu"
+  }
+]
